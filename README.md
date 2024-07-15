@@ -18,5 +18,5 @@
     
 
 <h4>**Contato**<p><br>Email:
-erick.s.s.martins31@gmail.com.</p</h4>
+erick.s.s.martins31@gmail.com</p</h4>
 </div>
